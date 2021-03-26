@@ -1,5 +1,5 @@
 import cloneNode from './cloneNode'
-import embedWebFonts from './embedWebFonts'
+// import embedWebFonts from './embedWebFonts'
 import embedImages from './embedImages'
 import createSvgDataURL from './createSvgDataURL'
 import applyStyleWithOptions from './applyStyleWithOptions'
